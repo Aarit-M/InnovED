@@ -1,0 +1,1 @@
+InnovED is a website that compiles resources and information from the internet to help other students study for STEM related topics. Continuing on, we have a scholarship form that could help students recieve   information for scholarships. We also have a form that you can fill out to find a tutor.
